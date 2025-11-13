@@ -1,4 +1,4 @@
-public class DiscountCalculator {
+public class Taskk2 {
     public static void main(String[] args) {
         double originalPrice = 250;
         double discount = 15; 
@@ -8,3 +8,4 @@ public class DiscountCalculator {
         System.out.printf("Final price after discount:", finalPrice);
     }
 }
+
